@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-This code focuses on detecting credit card fraud using a dataset of credit card applications. It applies various techniques, including outlier detection using Local Outlier Factor (LOF) and logistic regression for classification. The code also includes data preprocessing steps such as data cleaning, feature engineering, and scaling.
+This project focuses on detecting credit card fraud using a dataset of credit card applications. It applies various techniques, including outlier detection using Local Outlier Factor (LOF) and logistic regression for classification. The code also includes data preprocessing steps such as data cleaning, feature engineering, and scaling.
 
 ## Dependencies
 
