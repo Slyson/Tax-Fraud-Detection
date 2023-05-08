@@ -19,7 +19,7 @@ pip install scikit-learn numpy pandas matplotlib
 
 ## Dataset
 
-The code uses a credit card application dataset from <a href"https://www.kaggle.com/datasets/mishra5001/credit-card/versions/1">Kaggle</a> (`application_data.csv`). Make sure to provide the correct file path for the dataset in the code.
+The code uses a credit card application dataset from <a href="https://www.kaggle.com/datasets/mishra5001/credit-card/versions/1">Kaggle</a> (`application_data.csv`). Make sure to provide the correct file path for the dataset in the code.
 
 ## Usage
 
